@@ -1,0 +1,15 @@
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: checkout: moving from gh-pages to main
+[33mae33d9c[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m HEAD@{2}: commit: Deploy Sphinx documentation
+[33mc36d346[m HEAD@{3}: checkout: moving from main to gh-pages
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{4}: checkout: moving from gh-pages to main
+[33mc36d346[m HEAD@{5}: checkout: moving from main to gh-pages
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: checkout: moving from gh-pages to main
+[33mc36d346[m HEAD@{7}: checkout: moving from main to gh-pages
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: checkout: moving from gh-pages to main
+[33mc36d346[m HEAD@{9}: checkout: moving from main to gh-pages
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: checkout: moving from gh-pages to main
+[33mc36d346[m HEAD@{11}: commit: Deploy Sphinx documentation
+[33m8f09182[m HEAD@{12}: checkout: moving from main to gh-pages
+[33mda4aaba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{13}: checkout: moving from gh-pages to main
+[33m8f09182[m HEAD@{14}: commit: Fix deployment
