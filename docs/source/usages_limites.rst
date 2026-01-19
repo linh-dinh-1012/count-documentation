@@ -1,32 +1,25 @@
 Usages et limites
 =================
 
-🇫🇷 Usages
-----------
+Usages
+------
 
-- Aide à la décision pour les salles de cinéma  
-- Sensibilisation aux enjeux environnementaux  
-- Comparaisons par postes d'impact  
+COUNT est conçu comme un outil d'aide à la décision et de sensibilisation à
+destination des salles de cinéma. À ce titre, il peut notamment être utilisé
+pour :
 
-🇬🇧 Use cases
--------------
+- appuyer la réflexion stratégique des exploitants sur leurs principaux
+  postes d'impact environnemental  
+- sensibiliser les équipes et les parties prenantes aux enjeux climatiques  
+- comparer les ordres de grandeur des impacts par type d'activité  
 
-- Decision support for movie theaters  
-- Environmental awareness  
-- Impact breakdown analysis  
+Limites
+-------
 
----
+Les résultats produits par COUNT constituent des ordres de grandeur issus
+d'une approche simplifiée et volontaire. Ils ne se substituent pas à un
+Bilan Carbone® réglementaire ou à une analyse environnementale exhaustive.
 
-🇫🇷 Limites
------------
-
-Les résultats produits constituent des **ordres de grandeur** et ne se
-substituent pas à des bilans carbone réglementaires.
-
-Cette documentation n'est pas la documentation officielle du projet COUNT.
-
-🇬🇧 Limitations
----------------
-
-Results are indicative and do not replace regulatory carbon assessments.
-This is not the official COUNT documentation.
+La présente documentation n'est pas la documentation officielle du projet
+COUNT. Elle correspond à un travail de formalisation technique et
+méthodologique réalisé en appui au projet.
