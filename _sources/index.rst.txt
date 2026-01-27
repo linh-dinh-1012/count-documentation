@@ -20,4 +20,4 @@ la transition bas carbone (ABC).
    workflow_donnees
    reproductibilite
    usages_limites
-   modele_donnees_sql
+
